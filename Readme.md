@@ -1,4 +1,4 @@
-#  Lumbar-Spine-Degenerative-Classification - 12 Nov 24
+#  Lumbar-Spine-Degenerative-Classification
 
 The goal is to predict the severity of lumbar spine degeneration from medical images. The project involves processing DICOM medical images, applying machine learning algorithms, and training deep learning models to classify the severity of spine degeneration into three classes: **Normal/Mild**, **Moderate**, and **Severe**.
 
